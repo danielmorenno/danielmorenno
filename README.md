@@ -2,7 +2,6 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=75BDE0&textBg=false" />
 </p>
 
-
 ---
 
 <p align="left">
@@ -17,31 +16,37 @@ Profissional de Quality Assurance (QA) com foco na garantia da qualidade de soft
 
 Experiência prática em validação de APIs e testes end-to-end, com uso de Cypress e Postman, aplicando boas práticas de QA para identificar falhas, reduzir riscos e garantir entregas mais confiáveis.
 
-
 ---
 
 ## 🧪 Experiência Prática
 
 Atuação prática em testes de software utilizando aplicações reais e ambientes de simulação, com foco em validação de fluxos, automação e garantia da qualidade:
 
-### 🔹 Cypress Real World App
-Aplicação completa simulando um ambiente real de pagamentos, utilizada para prática de testes end-to-end, validação de fluxos críticos e análise de comportamento da aplicação.
+<details>
+  <summary>🧪 Visualizar experiência prática em QA</summary>
 
-🔗 https://github.com/danielmorenno/cypress-realworld-app
+  <br>
 
----
+  ### 🔹 Cypress Real World App
+  Aplicação completa simulando um ambiente real de pagamentos, utilizada para prática de testes end-to-end, validação de fluxos críticos e análise de comportamento da aplicação.
 
-### 🔹 Cypress Heroes
-Projeto voltado para automação de testes utilizando Cypress, com foco em cenários funcionais e validação de interface.
+  🔗 https://github.com/danielmorenno/cypress-realworld-app
 
-🔗 https://github.com/danielmorenno/cypress-heroes
+  ---
 
----
+  ### 🔹 Cypress Heroes
+  Projeto voltado para automação de testes utilizando Cypress, com foco em cenários funcionais e validação de interface.
 
-### 🔹 Primeiros passos com Cypress
-Projeto autoral focado na prática inicial de automação de testes, cobrindo conceitos fundamentais como estrutura de testes, comandos e validações.
+  🔗 https://github.com/danielmorenno/cypress-heroes
 
-🔗 https://github.com/danielmorenno/primeiros-passos-cypress
+  ---
+
+  ### 🔹 Primeiros passos com Cypress
+  Projeto autoral focado na prática inicial de automação de testes, cobrindo conceitos fundamentais como estrutura de testes, comandos e validações.
+
+  🔗 https://github.com/danielmorenno/primeiros-passos-cypress
+
+</details>
 
 ---
 
