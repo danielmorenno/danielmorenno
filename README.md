@@ -5,9 +5,8 @@
 
 ---
 
-<!-- Animação de digitação -->
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?color=00F7FF&size=32&center=true&vCenter=true&width=1000&lines=Olá,+sou+Daniel+Moreno!" />
+<p align="left">
+  <img src="https://readme-typing-svg.herokuapp.com/?color=00F7FF&size=32&center=false&vCenter=true&width=1000&lines=Olá,+sou+Daniel+Moreno!;Quality+Assurance" />
 </p>
 
 ---
@@ -18,30 +17,31 @@ Profissional de Quality Assurance (QA) com foco na garantia da qualidade de soft
 
 Experiência prática em validação de APIs e testes end-to-end, com uso de Cypress e Postman, aplicando boas práticas de QA para identificar falhas, reduzir riscos e garantir entregas mais confiáveis.
 
+
 ---
 
 ## 🧪 Experiência Prática
 
-Ao longo dos meus estudos, venho desenvolvendo projetos focados na qualidade de software:
+Atuação prática em testes de software utilizando aplicações reais e ambientes de simulação, com foco em validação de fluxos, automação e garantia da qualidade:
 
-### 🔹 Testes de API com Postman
-Validação de endpoints com foco em regras de negócio, estrutura de resposta, status codes e consistência dos dados.
+### 🔹 Cypress Real World App
+Aplicação completa simulando um ambiente real de pagamentos, utilizada para prática de testes end-to-end, validação de fluxos críticos e análise de comportamento da aplicação.
 
-🔗 https://github.com/danielmorenno/SEU-PROJETO-POSTMAN
-
----
-
-### 🔹 Automação de Testes com Cypress
-Automação de testes end-to-end validando fluxos críticos da aplicação e garantindo a estabilidade das funcionalidades.
-
-🔗 https://github.com/danielmorenno/SEU-PROJETO-CYPRESS
+🔗 https://github.com/danielmorenno/cypress-realworld-app
 
 ---
 
-### 🔹 Casos de Teste e Estratégia de QA
-Criação de cenários de teste, casos de uso e estratégias de validação simulando um ambiente real de QA.
+### 🔹 Cypress Heroes
+Projeto voltado para automação de testes utilizando Cypress, com foco em cenários funcionais e validação de interface.
 
-🔗 https://github.com/danielmorenno/SEU-PROJETO-TESTES
+🔗 https://github.com/danielmorenno/cypress-heroes
+
+---
+
+### 🔹 Primeiros passos com Cypress
+Projeto autoral focado na prática inicial de automação de testes, cobrindo conceitos fundamentais como estrutura de testes, comandos e validações.
+
+🔗 https://github.com/danielmorenno/primeiros-passos-cypress
 
 ---
 
@@ -76,8 +76,8 @@ Criação de cenários de teste, casos de uso e estratégias de validação simu
 
 ## 📫 Onde me encontrar
 
-- 💼 LinkedIn: (coloque aqui seu link)
-- 📧 Email: (opcional)
+- 💼 **LinkedIn:** [Acessar perfil](https://www.linkedin.com/in/daniel-moreno-05882021a/)
+- 📧 Email: morennodanniel@gmail.com
 
 ---
 
