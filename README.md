@@ -1,3 +1,10 @@
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=75BDE0&textBg=false" />
+</p>
+
+
+---
+
 <!-- Animação de digitação -->
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?color=00F7FF&size=32&center=true&vCenter=true&width=1000&lines=Olá,+sou+Daniel+Moreno!" />
