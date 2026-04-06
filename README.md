@@ -67,9 +67,9 @@ Projeto autoral focado na prática inicial de automação de testes, cobrindo co
 
 ## 📊 Estatísticas do GitHub
 
-<p align="center">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=danielmorenno&show_icons=true&theme=radical"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=danielmorenno&layout=compact&theme=radical"/>
+<p align="left">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=danielmorenno&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=danielmorenno&layout=compact&theme=radical"/>
 </p>
 
 ---
