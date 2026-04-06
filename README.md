@@ -23,7 +23,7 @@ Experiência prática em validação de APIs e testes end-to-end, com uso de Cyp
 Atuação prática em testes de software utilizando aplicações reais e ambientes de simulação, com foco em validação de fluxos, automação e garantia da qualidade:
 
 <details>
-  <summary>🧪 Visualizar experiência prática em QA</summary>
+  <summary> Visualizar experiência prática em QA</summary>
 
   <br>
 
