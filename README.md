@@ -80,7 +80,7 @@ Atuação prática em testes de software utilizando aplicações reais e ambient
 
 ## 📫 Onde me encontrar
 
-- 💼 **LinkedIn:** [Acessar perfil](https://www.linkedin.com/in/daniel-moreno-05882021a/)
+- 💼 **LinkedIn:** [Acessar perfil](https://www.linkedin.com/in/daniel-morenno-/)
 - 📧 Email: morennodanniel@gmail.com
 
 ---
